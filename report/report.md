@@ -1,6 +1,6 @@
 # Software Engineering | Project 3 | Team 15
 
-[Github](https://github.com/aryanchandramania/UpDawg)
+[Github](https://github.com/Raghav010/UpDawg)
 
 ![WhatsApp Image 2024-04-26 at 12.27.08 AM.jpeg](images/WhatsApp_Image_2024-04-26_at_12.27.08_AM.jpeg)
 
